@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /assets/
 
-Sitemap: https://bealuckyblockscript.com/sitemap.xml
+Sitemap: https://be-a-lucky-block-script.github.io/sitemap.xml
