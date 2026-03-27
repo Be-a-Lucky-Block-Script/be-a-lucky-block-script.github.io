@@ -32,7 +32,7 @@ document.addEventListener("DOMContentLoaded", () => {
       <div class="nav-container">
         <a href="${root}index.html" class="nav-logo" aria-label="Home">
           <span class="logo-cube">🟨</span>
-          <span class="logo-text">Lucky<span class="logo-accent">Block</span></span>
+          <span class="logo-text">Be a Lucky Block<span class="logo-accent"> Script</span></span>
         </a>
         <button class="nav-toggle" id="navToggle" aria-label="Toggle navigation">
           <span></span><span></span><span></span>
@@ -79,7 +79,7 @@ document.addEventListener("DOMContentLoaded", () => {
         <div class="footer-brand">
           <a href="${root}index.html" class="nav-logo">
             <span class="logo-cube">🟨</span>
-            <span class="logo-text">Lucky<span class="logo-accent">Block</span></span>
+            <span class="logo-text">Be a Lucky Block<span class="logo-accent"> Script</span></span>
           </a>
           <p class="footer-tagline">The #1 source for working Roblox Lucky Block scripts.</p>
         </div>
@@ -96,7 +96,7 @@ document.addEventListener("DOMContentLoaded", () => {
         </div>
       </div>
       <div class="footer-bottom">
-        <p>&copy; ${year} LuckyBlockScript.com — Not affiliated with Roblox Corporation.</p>
+        <p>&copy; ${year} Be a Lucky Block Script — Not affiliated with Roblox Corporation.</p>
         <p class="footer-disclaimer-note">For educational purposes only. Use scripts at your own risk.</p>
       </div>
     `;
