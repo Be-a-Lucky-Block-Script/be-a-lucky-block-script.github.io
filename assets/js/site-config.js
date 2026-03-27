@@ -5,7 +5,7 @@
  */
 const SITE_CONFIG = {
   siteName: "Be a Lucky Block Script",
-  siteURL: "https://bealuckyblockscript.com",
+  siteURL: "https://be-a-lucky-block-script.github.io",
   siteDescription: "Get the latest working Be a Lucky Block Script for Roblox. No Key required. Auto Farm, Auto Open, ESP, and more features updated monthly.",
   twitterHandle: "@LuckyBlockScript",
   defaultImage: "/assets/img/og-image.png",
