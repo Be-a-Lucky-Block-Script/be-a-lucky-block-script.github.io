@@ -433,22 +433,6 @@ section { padding: 80px 0; }
   .hero-actions, .hero-stats { justify-content: center; }
 }
 
-/* ── AD SLOT ───────────────────────────────────────────────────── */
-.ad-slot {
-  width: 100%;
-  min-height: 90px;
-  background: rgba(255,215,0,0.03);
-  border: 1px dashed rgba(255,215,0,0.15);
-  border-radius: var(--radius-sm);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  color: rgba(255,215,0,0.2);
-  font-family: var(--font-mono);
-  font-size: 0.7rem;
-  letter-spacing: 0.1em;
-  margin: 2rem 0;
-}
 
 /* ── SCRIPT CARDS ──────────────────────────────────────────────── */
 #scripts { background: var(--black-card); }
@@ -643,28 +627,6 @@ section { padding: 80px 0; }
   color: var(--white-muted);
 }
 
-/* Executor recommendation */
-.executor-list {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
-  gap: 1rem;
-  margin-top: 2rem;
-}
-
-.executor-card {
-  background: var(--black-deep);
-  border: 1px solid var(--black-border);
-  border-radius: var(--radius-sm);
-  padding: 1rem 1.25rem;
-  display: flex;
-  align-items: center;
-  gap: 0.75rem;
-  transition: border-color var(--transition);
-}
-.executor-card:hover { border-color: rgba(255,215,0,0.3); }
-.executor-card .exec-icon { font-size: 1.5rem; }
-.executor-card strong { font-size: 0.9rem; color: var(--white-primary); display: block; }
-.executor-card span { font-size: 0.72rem; color: var(--white-muted); font-family: var(--font-mono); }
 
 /* ── FAQ ───────────────────────────────────────────────────────── */
 .faq-list {
